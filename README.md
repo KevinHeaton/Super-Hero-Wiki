@@ -1,5 +1,5 @@
 # Super Hero Wiki
-This is a group project for our Interactive Front End Web Site. We created a Super Wiki that uses two (2) APIs to provide users a comic book experience in finding their favorite superhero's backstory and movie list.
+We created a Super Wiki that uses two (2) APIs to provide users a comic book experience in finding their favorite superhero's backstory and movie list.
 
 ## Built With
 This website was built with the standard structure of HTML, CSS, and JS files all referenced appropriately. We pulled from JQUERY, Tailwind, Google Fonts, Marvel API, and Movie API for the content. We used VS Code, the DOM, and Web Developer Tools to write and edit the code.
