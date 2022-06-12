@@ -8,7 +8,7 @@ This website was built with the standard structure of HTML, CSS, and JS files al
 You can find the final product at: https://vicengs.github.io/Super-Hero-Wiki/
 
 ## GitHub repository
-You can find the repository at: https://github.com/vicengs/Super-Hero-Wiki
+You can find the repository at: https://github.com/KevinHeaton/Super-Hero-Wiki
 
 ## SSH to clone
 You can clone with: git@github.com:vicengs/Super-Hero-Wiki.git
