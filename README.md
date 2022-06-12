@@ -5,7 +5,7 @@ This is a group project for our Interactive Front End Web Site. We created a Sup
 This website was built with the standard structure of HTML, CSS, and JS files all referenced appropriately. We pulled from JQUERY, Tailwind, Google Fonts, Marvel API, and Movie API for the content. We used VS Code, the DOM, and Web Developer Tools to write and edit the code.
 
 ## Website
-You can find the final product at: https://vicengs.github.io/Super-Hero-Wiki/
+You can find the final product at: https://kevinheaton.github.io/Super-Hero-Wiki/
 
 ## GitHub repository
 You can find the repository at: https://github.com/KevinHeaton/Super-Hero-Wiki
